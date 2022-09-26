@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "pm2": "^3.5.1"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {},
   "scripts": {
